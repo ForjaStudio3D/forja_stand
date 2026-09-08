@@ -1,0 +1,4 @@
+.DS_Store
+.temp/
+poc-*.png
+qa-poc.json
