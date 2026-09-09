@@ -2,6 +2,8 @@
 
 Página única `index.html`, com CSS, JavaScript, logo, QR, fontes, quatro vídeos sem áudio e 14 fotos incorporados. Funciona localmente, inclusive offline.
 
+QR em destaque no centro, com dois vídeos de cada lado em notebook/desktop e seis referências MakerWorld na faixa inferior. Ao terminar o vídeo da esquerda, a fila avança preservando a reprodução dos outros três.
+
 Endereço GitHub Pages: https://forjastudio3d.github.io/forja_stand/
 
 Publicação pela branch `main`, diretório raiz. O arquivo `.nojekyll` preserva a página estática sem processamento Jekyll.
