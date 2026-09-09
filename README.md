@@ -2,13 +2,13 @@
 
 Página única `index.html`, com CSS, JavaScript, logo, QR, fontes, quatro vídeos sem áudio e 14 fotos incorporados. Funciona localmente, inclusive offline.
 
-QR em destaque no centro, com dois vídeos de cada lado em notebook/desktop e seis referências MakerWorld na faixa inferior. Ao terminar o vídeo da esquerda, a fila avança preservando a reprodução dos outros três.
+Dois layouts alternam automaticamente: QR lateral com dois vídeos por 2 minutos; QR central com quatro vídeos por 30 segundos; depois retorna à lateral. A reorganização mantém os mesmos elementos e a reprodução dos vídeos que permanecem visíveis. As fotos MakerWorld aparecem inteiras nos dois modos.
 
 Endereço GitHub Pages: https://forjastudio3d.github.io/forja_stand/
 
 Publicação pela branch `main`, diretório raiz. O arquivo `.nojekyll` preserva a página estática sem processamento Jekyll.
 
-Abra `index.html` no navegador. Tela cheia: botão no rodapé ou F. Espaço pausa/reproduz; seta direita avança a fila.
+Abra `index.html` no navegador. Tela cheia: botão no rodapé ou F. Espaço pausa/reproduz; seta direita avança a fila. O botão Layout ou L alterna a composição manualmente. Pausa e aba oculta suspendem a contagem do ciclo; ao retomar, continua o tempo restante.
 
 ## Vídeos da Forja
 
