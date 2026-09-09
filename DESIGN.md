@@ -19,5 +19,7 @@ Fila de quatro reels: livro-caixa, dragõezinhos e ovos, plaquinhas para colorir
 ## Adaptação
 Desktop/notebook com dois vídeos de cada lado do centro. Em celular, cada par empilha seus dois vídeos, mantendo o QR central, e a faixa inferior mostra quatro fotos. Em paisagem baixa, as miniaturas são ocultadas para preservar vídeos e QR. Vídeos usam contain para preservar o enquadramento original; o espaço livre recebe o próprio poster desfocado, sem cortar o vídeo.
 
+As referências MakerWorld usam imagens inteiras com contain em áreas quadradas. Em desktop/notebook, nomes e créditos ficam ao lado, sem sobrepor a fotografia; em celular, o nome fica abaixo.
+
 ## Limitações do conteúdo
 Os quatro vídeos do Instagram foram obtidos da página pública renderizada. Fontes MP4 originais preservadas em scratch; versões de exibição H.264 de até 960 px de altura, sem áudio. Textos já presentes nos vídeos permanecem como na fonte. A coleção MakerWorld também tem etiquetas e marcas originais, preservadas nas imagens.
